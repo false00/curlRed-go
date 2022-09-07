@@ -14,7 +14,7 @@ Usage: curlRed.exe / curlRed
 Example (ipv4): curlRed.exe 1.1.1.1
 Example (ipv6): curlRed.exe 2a03:2880:2130:cf05:face:b00c::1.Faceb00c
 Example (domain): curlRed.exe google.com
-Example (batch mode): 1.1.1.1 2a03:2880:2130:cf05:face:b00c::1.Faceb00c google.com
+Example (batch mode): curlRed.exe 1.1.1.1 2a03:2880:2130:cf05:face:b00c::1.Faceb00c google.com
 ```
 
 Build
